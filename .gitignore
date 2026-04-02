@@ -1,0 +1,19 @@
+# Laravel core ignores
+/vendor
+/node_modules
+
+# Storage (logs, cache)
+/storage/*.key
+/storage/logs
+/storage/framework
+
+# Public uploads
+/public/storage
+
+# IDE files
+/.vscode
+/.idea
+
+# OS files
+.DS_Store
+Thumbs.db
